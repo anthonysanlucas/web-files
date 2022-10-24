@@ -5,6 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "Anthony San Lucas",
 	"homepage": "https://github.com/anthonysanlucas/web-files/README.md",
+	"license": "https://github.com/anthonysanlucas/web-files/blob/main/LICENSE",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
