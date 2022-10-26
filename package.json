@@ -3,7 +3,7 @@
 	"displayName": "Web Files",
 	"description": "Boilerplate to create websites, quickly create a static file structure (index.html, normalize.css, main.css and main.js).",
 	"version": "1.0.0",
-	"publisher": "Anthony San Lucas",
+	"publisher": "anthonysanlucas",
 	"homepage": "https://github.com/anthonysanlucas/web-files/blob/main/README.md",
 	"license": "https://github.com/anthonysanlucas/web-files/blob/main/LICENSE",
 	"icon": "icon.png",
